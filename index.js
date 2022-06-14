@@ -11,6 +11,7 @@ app.use('*', function (req, res, next) {
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With');
     next();
   });
+  app.use(express.static(path.join(__dirname, 'databace')))
 
 
 
@@ -18,10 +19,10 @@ app.use('*', function (req, res, next) {
 app.get('/users', (req, res) => res.status(200).send(getFile('users')))
 app.get('/orders', (req, res) => res.status(200).send(getFile('orders')))
 app.get('/foods', (req, res) => res.status(200).send(getFile('foods')))
-app.get('/img/:imgName', (req, res) => {
-    let { imgName } = req.params
-    res.end(getImg(imgName))
-})
+// app.get('/img/:imgName', (req, res) => {
+//     let { imgName } = req.params
+//     res.end(getImg(imgName))
+// })
 
 
 app.post('/users', (req, res) => {
@@ -59,6 +60,7 @@ app.post('/orders', (req, res) => {
 
     res.status(201).send({status:201, message: 'order added successfully'})
 })
+
 
 
 
