@@ -1,0 +1,42 @@
+[
+    {
+        "userId": 1,
+        "foodId": 2,
+        "count": 2
+    },
+    {
+        "userId": 1,
+        "foodId": 1,
+        "count": 9
+    },
+    {
+        "userId": 1,
+        "foodId": 6,
+        "count": 2
+    },
+    {
+        "userId": 3,
+        "foodId": 5,
+        "count": 1
+    },
+    {
+        "userId": "2",
+        "foodId": "1",
+        "count": 15
+    },
+    {
+        "userId": "3",
+        "foodId": "1",
+        "count": "1"
+    },
+    {
+        "userId": "6",
+        "foodId": "1",
+        "count": 2
+    },
+    {
+        "userId": "6",
+        "foodId": "6",
+        "count": "1"
+    }
+]

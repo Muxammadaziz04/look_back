@@ -1,0 +1,47 @@
+[
+    {
+        "userId": 1,
+        "username": "sobir",
+        "contact": "998941049914"
+    },
+    {
+        "userId": 2,
+        "username": "rahim",
+        "contact": "998941049914"
+    },
+    {
+        "userId": 3,
+        "username": "ilhom",
+        "contact": "998941049914"
+    },
+    {
+        "username": "ali",
+        "contact": "998935852484",
+        "userId": 4
+    },
+    {
+        "username": "said",
+        "contact": "998935852484",
+        "userId": 5
+    },
+    {
+        "username": "Aziz",
+        "contact": "998935852484",
+        "userId": 6
+    },
+    {
+        "username": "Diyor",
+        "contact": "998935852484",
+        "userId": 7
+    },
+    {
+        "username": "aziz",
+        "contact": "998935852484",
+        "userId": 8
+    },
+    {
+        "username": "khaliluloh",
+        "contact": "998935852484",
+        "userId": 9
+    }
+]
