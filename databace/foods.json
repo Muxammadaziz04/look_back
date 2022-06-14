@@ -2,36 +2,36 @@
     {
       "foodId":1,
       "foodName":"Cola",
-      "foodImg":"http://localhost:3000/img/cola"
+      "foodImg":"https://look-js.herokuapp.com/img/cola"
     },
     {
       "foodId":2,
       "foodName":"Spinner",
-      "foodImg":"http://localhost:3000/img/spinner"
+      "foodImg":"https://look-js.herokuapp.com/img/spinner"
     },
     {
       "foodId":3,
       "foodName":"Chiken Wings",
-      "foodImg":"http://localhost:3000/img/chicken_wings"
+      "foodImg":"https://look-js.herokuapp.com/img/chicken_wings"
     },
     {
       "foodId":4,
       "foodName":"Burger Cheese",
-      "foodImg":"http://localhost:3000/img/burger_cheese"
+      "foodImg":"https://look-js.herokuapp.com/img/burger_cheese"
     },
     {
       "foodId":5,
       "foodName":"Chicken Togora",
-      "foodImg":"http://localhost:3000/img/chicken_togora"
+      "foodImg":"https://look-js.herokuapp.com/img/chicken_togora"
     },
     {
       "foodId":6,
       "foodName":"Combo",
-      "foodImg":"http://localhost:3000/img/combo"
+      "foodImg":"https://look-js.herokuapp.com/img/combo"
     },
     {
       "foodId":7,
       "foodName":"Fanta",
-      "foodImg":"http://localhost:3000/img/fanta"
+      "foodImg":"https://look-js.herokuapp.com/img/fanta"
     }
   ]
